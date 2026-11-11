@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the SGR-DTSF manuscript."
+title: "SGR-DTSF NYISO Reproducibility Repository"
+version: 0.2.0
+date-released: 2026-11-11
+authors:
+  - family-names: Chen
+    given-names: Congcong
+  - family-names: Chai
+    given-names: Lin
+  - family-names: Wang
+    given-names: Qingling

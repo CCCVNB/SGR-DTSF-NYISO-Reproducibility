@@ -1,0 +1,14 @@
+Static validation for SGR-DTSF NYISO Reproducibility v0.2.0.
+
+Scope: NYISO H288->P288 only.
+NYISO Python source files: 3.
+Syntax compilation: PASS for all NYISO Python source files.
+CLI --help checks: PASS for all 3 NYISO executable entrypoints.
+No GEFCom2012 source files are included.
+Raw-data preprocessing and dataset-generation scripts included: 0.
+Processed data, scalers, checkpoints, and prediction dumps included: 0.
+No training, inference, preprocessing, or checkpoint access was performed.
+
+PASS: two_half_year_fused_pg_dtsf_experiments.py --help
+PASS: two_half_year_sgr_pg_dtsf_experiments_clear_ablation.py --help
+PASS: two_half_year_strong_core_baseline_experiments.py --help
