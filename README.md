@@ -25,7 +25,7 @@ The fusion runner contains additional historical experimental variants. Only `di
 
 ## 2. Environment
 
-The scripts use Python, NumPy, pandas, Matplotlib, and PyTorch. `requirements.txt` is a minimal dependency list, not a lockfile and not a claim that it exactly recreates every historical environment. Install a PyTorch build compatible with the local CPU/GPU and CUDA runtime.
+The scripts use Python, NumPy, pandas, Matplotlib, and PyTorch.
 
 ```bash
 python -m pip install -r requirements.txt
